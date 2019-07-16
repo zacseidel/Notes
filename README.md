@@ -1,10 +1,12 @@
 # Notes
 Personal notes and references I refer to
-1. Programming and Using Github
+1. Using Github
 2. Code Snippets
 3. Math, Statistics, and Formulas
 4. Helpful References
 
+# Using Github
+- Helpful Reference: Github Guide to Markdown: https://guides.github.com/features/mastering-markdown/
 
 
 

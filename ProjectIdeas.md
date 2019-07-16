@@ -5,10 +5,40 @@ List of project Ideas I'm Currently Interested In
 2. Sports
 3. Investments
 4. Healthcare
+5. Art
 
 
 # List of Interesting Data Sources
 - UC Irvine Machine Learning Repository: http://archive.ics.uci.edu/ml/
+
+
+# 1. Maps and Geography
+*Helpful code for making maps in R and Python*
+
+### R 
+- Map making tutorial; https://austinwehrwein.com/digital-humanities/creating-a-density-map-in-r-with-zipcodes/ 
+- Great tutorial with Census Data: http://zevross.com/blog/2018/10/02/creating-beautiful-demographic-maps-in-r-with-the-tidycensus-and-tmap-packages/
+- Intro tutorial with R-spatial: https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html
+- Broad catalogue of ideas: http://spatial.ly/r/
+- Detailed tutorial: https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
+- Tutorial with election data: https://www.computerworld.com/article/3038270/create-maps-in-r-in-10-fairly-easy-steps.html
+- https://geocompr.robinlovelace.net/adv-map.html
+- https://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
+- https://stackoverflow.com/questions/47602744/draw-boundary-by-zip-code-and-create-a-heat-map
+
+
+
+### Python
+- https://towardsdatascience.com/making-3-easy-maps-with-python-fb7dfb1036
+- https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d
+- https://plot.ly/python/maps/
+- https://python-graph-gallery.com/map/
+- lots of detail: https://rabernat.github.io/research_computing/intro-to-basemap.html
+
+
+
+
+
 
 
 # 3. Sports
@@ -44,3 +74,14 @@ This started as an investigation into how Elo ratings work.  However, there are 
 
 # 4. Healthcare
 - Dataset / Project example: https://github.com/tysonjens/Compare_DVA_to_DialysisIndustry/blob/master/code
+
+
+
+# 5. Art
+- https://blog.revolutionanalytics.com/2018/04/mathematical-art-in-r-.html
+- http://xahlee.info/math/algorithmic_math_art.html
+- https://blogs.scientificamerican.com/guest-blog/making-mathematical-art/
+- http://discovermagazine.com/galleries/2014/april/math-art
+- https://www.r-bloggers.com/mathematical-art-in-r/
+- https://fronkonstin.com/2018/09/06/tweetable-mathematical-art-with-r/
+

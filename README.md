@@ -13,13 +13,13 @@ Personal notes and references I refer to
 
 
 
-# 3. Math, Statistics, and Formulas
+# 2. Math, Statistics, and Formulas
 References
 1. Galvanize Short Course on Statistics: https://galvanizeopensource.github.io/stats-shortcourse/getting-started.html
 
 
 
-# 4. References & Places to Learn From
+# 3. References & Places to Learn From
 - Build a website quickly: http://deanattali.com/beautiful-jekyll
 - Data Science Tutorials: https://github.com/chrisfeller/Data_Science_Tutorials
 - CS109 from Harvard: Data Science - http://cs109.github.io/2014/
@@ -27,6 +27,6 @@ References
 
 
 
-# 5. Data Sources
+# 4. Data Sources
 - Data Science Toolkit: http://www.datasciencetoolkit.org
 
